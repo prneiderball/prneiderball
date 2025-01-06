@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prneiderball
 - 👀 I spend my time gaming and coding, but i also enjoy to cook and be outside
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on beginner friendly projects, I am new to the coding world
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on anything and everything, I am new to the coding world.
 - 📫 How to reach me neiderballgroup@gmail.com
 
 <!---
