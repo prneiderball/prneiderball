@@ -13,8 +13,9 @@ Welcome to my GitHub profile! I'm a passionate **software engineering student** 
 
 ## 📊 GitHub Stats
 
-![P. R. Neider-Ball's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![P. R. Neider-Ball's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prneiderball&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prneiderball&layout=compact&theme=radical)
+
 
 ---
 
