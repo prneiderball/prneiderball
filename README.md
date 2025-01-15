@@ -1,31 +1,42 @@
-# 👋 Hi, I'm P. R. Neider-Ball!
+# 👋 Hi, I’m **P. R. Neider-Ball!**
 
-Welcome to my GitHub profile! I'm a passionate **software engineering student** currently honing my skills in **JavaScript** and diving into **JavaScript frameworks**. I’m enrolled in the **TripleTen Software Engineering program**, where I focus on building practical projects and mastering software development.
+🌟 Welcome to my GitHub corner, where creativity meets code! I’m a **software engineering student** passionate about turning ideas into reality through clean, functional, and beautiful code.
 
----
-
-## 🌱 What I’m Learning
-- 🖥️ **JavaScript**: Mastering the fundamentals and advanced concepts.
-- 🛠️ **JavaScript Frameworks**: Exploring tools like React and Vue.js.
-- 🌐 **Web Development**: From HTML/CSS basics to modern front-end workflows.
+I’m currently enrolled in the **TripleTen Software Engineering program**, where I’m diving deep into **JavaScript** and all things web development. My goal? To master the art of creating **intuitive user experiences** and **scalable applications** that make a difference.
 
 ---
 
-## 📊 GitHub Stats
-
-![P. R. Neider-Ball's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prneiderball&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prneiderball&layout=compact&theme=radical)
-
+## 🌱 **What I’m Learning**
+- 🖥️ **JavaScript**: From ES6+ to advanced concepts.
+- 🌐 **Web Development**: Creating responsive, accessible, and modern websites.
+- 🧪 **Testing**: Writing robust and maintainable code with Jest and Mocha.
 
 ---
 
-## 📬 Let’s Connect
-- 🌟 [LinkedIn](https://www.linkedin.com/in/phillip-neider-ball-6372581ab/)
-- ✉️ [Email](mailto:neiderballgroup@gmail.com)
+## 📊 **GitHub Stats**
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or chat about software development. 😊
+![P. R. Neider-Ball's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prneiderball&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prneiderball&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prneiderball&theme=radical)
 
-<!---
-prneiderball/prneiderball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🎯 **Skills & Tools**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)  
+![HTML5](https://img.shields.io/badge/HTML5-orange)  
+![CSS3](https://img.shields.io/badge/CSS3-blue)  
+![Git](https://img.shields.io/badge/Git-version--control-red)
+
+---
+
+## 📬 **Let’s Connect**
+
+- 🌟 [**LinkedIn**](https://www.linkedin.com/in/phillip-neider-ball-6372581ab/)  
+- ✉️ [**Email**](mailto:neiderballgroup@gmail.com)  
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." - Cory House*  
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate, chat about software development, or share ideas. 😊
