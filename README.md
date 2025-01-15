@@ -17,7 +17,8 @@ I’m currently enrolled in the **TripleTen Software Engineering program**, wher
 
 ![P. R. Neider-Ball's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prneiderball&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prneiderball&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prneiderball&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prneiderball&theme=radical)
+
 
 ---
 
