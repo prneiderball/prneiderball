@@ -29,6 +29,9 @@ I’m currently enrolled in the **TripleTen Software Engineering program**, wher
 
 ---
 
+## **Projects**
+Ronald Potts Coach: TBA (est. 1.25.25)
+
 ## 📬 **Let’s Connect**
 
 - 🌟 [**LinkedIn**](https://www.linkedin.com/in/phillip-neider-ball-6372581ab/)  
