@@ -30,7 +30,7 @@ I’m currently enrolled in the **TripleTen Software Engineering program**, wher
 ---
 
 ## **Projects**
-Ronald Potts Coaching: TBA (est. 1.25.25)
+Ronald Potts Coaching: [https://v0-new-project-ercp4ilhgsd.vercel.app/](https://t.co/Tb4Q333V0n)
 
 ## 📬 **Let’s Connect**
 
