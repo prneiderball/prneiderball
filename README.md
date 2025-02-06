@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **P. R. Neider-Ball!**
 
-🌟 Welcome to my GitHub corner, where creativity meets code! I’m a **software engineering student** passionate about turning ideas into reality through clean, functional, and beautiful code.
+🌟 Welcome to my GitHub corner, where creativity meets code! I’m a **computer science student** passionate about turning ideas into reality through clean, functional, and beautiful code.
 
 I’m currently enrolled in the **TripleTen Software Engineering program**, where I’m diving deep into **JavaScript** and all things web development. My goal? To master the art of creating **intuitive user experiences** and **scalable applications** that make a difference.
 
