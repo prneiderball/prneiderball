@@ -9,8 +9,7 @@ I’m currently enrolled in the **TripleTen Software Engineering program**, divi
 ## 🌱 **What I’m Learning**  
 🚀 Constantly improving my skills in:  
 - **JavaScript & Frameworks** – Mastering ES6+, React, and modern JavaScript techniques.  
-- **Full-Stack Web Development** – Creating responsive, scalable, and accessible applications.  
-- **Testing & Debugging** – Writing maintainable code with Jest, Mocha, and debugging efficiently.  
+- **Full-Stack Web Development** – Creating responsive, scalable, and accessible applications. 
 - **Version Control & Collaboration** – Using Git/GitHub to manage projects effectively.  
 
 ---
