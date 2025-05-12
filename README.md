@@ -1,5 +1,5 @@
 🌟 **Welcome to my GitHub!**  
-I’m a **computer science student** and aspiring software engineer with a passion for building **clean, scalable, and user-friendly applications**. From crafting modern **web interfaces** to developing robust **JavaScript-based solutions**, I enjoy bringing ideas to life through code.
+I’m a **computer science student** and aspiring software engineer with a passion for building **clean, scalable, and user-friendly applications**. From crafting modern **web interfaces** to developing robust **JavaScript-based business solutions**, I enjoy bringing ideas to life through code.
 
 Currently, I’m enrolled in the **TripleTen Software Engineering Program**, where I’m deepening my expertise in **JavaScript**, **frontend development**, and **backend technologies**. My goal is to create **intuitive, accessible, and high-performance applications** that solve real-world problems.
 
