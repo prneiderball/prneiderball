@@ -1,16 +1,17 @@
-# 👋 Hi, I’m **P. R. Neider-Ball!**  
+🌟 **Welcome to my GitHub!**  
+I’m a **computer science student** and aspiring software engineer with a passion for building **clean, scalable, and user-friendly applications**. From crafting modern **web interfaces** to developing robust **JavaScript-based solutions**, I enjoy bringing ideas to life through code.
 
-🌟 Welcome to my GitHub, where creativity meets code! I’m a **computer science student** passionate about building **clean, scalable, and user-friendly applications**. Whether it’s crafting modern **web experiences** or developing powerful **JavaScript applications**, I love turning ideas into reality.  
-
-I’m currently enrolled in the **TripleTen Software Engineering program**, diving deep into **JavaScript, frontend development, and backend technologies**. My mission? To **build intuitive, accessible, and high-performance applications** that make an impact.  
+Currently, I’m enrolled in the **TripleTen Software Engineering Program**, where I’m deepening my expertise in **JavaScript**, **frontend development**, and **backend technologies**. My goal is to create **intuitive, accessible, and high-performance applications** that solve real-world problems.
 
 ---
 
-## 🌱 **What I’m Learning**  
-🚀 Constantly improving my skills in:  
-- **JavaScript & Frameworks** – Mastering ES6+, React, and modern JavaScript techniques.  
-- **Full-Stack Web Development** – Creating responsive, scalable, and accessible applications. 
-- **Version Control & Collaboration** – Using Git/GitHub to manage projects effectively.  
+## 🌱 **Currently Learning**
+
+Here’s what I’m focused on right now:
+
+- **JavaScript & Frameworks** – Advancing my skills with ES6+, React, and modern development patterns  
+- **Full-Stack Development** – Building responsive, accessible, and scalable web applications  
+- **Version Control & Collaboration** – Managing codebases with Git and collaborating effectively on GitHub
 
 ---
 
