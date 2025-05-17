@@ -30,22 +30,7 @@ Here’s what I’m focused on right now:
 ## 📊 **GitHub Stats**  
 
 ![P. R. Neider-Ball's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prneiderball&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prneiderball&layout=compact&theme=radical)  
-
----
-
-## 🚀 **Projects**  
-
-### 🎯 Ronald Potts Coaching  
-🌍 [Live Site](https://ronalddpottscoaching.netlify.app/)   
-📖 [Case Study](https://docs.google.com/document/d/11TqFc5ZAXmYUv_K62ZFScAZNCRsqKsMi7q60B03D25A/edit?usp=sharing)  
-
-A professional coaching website built with **HTML, CSS, and JavaScript**, featuring a user-friendly interface and responsive design.  
-
-### 🔑 Login Form with Dynamic CSS  
-🌍 [Live Demo](https://prneiderball.github.io/login-page/)  
-
-A sleek, interactive login form utilizing **CSS animations and JavaScript** for a dynamic user experience.  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prneiderball&layout=compact&theme=radical)   
 
 ---
 
