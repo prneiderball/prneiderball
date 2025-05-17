@@ -15,13 +15,12 @@ I’m here to learn, build, and contribute — whether it’s through clean code
 
 ---
 
-## 🌱 **Currently Learning**
+### 🔧 What I’m Working On Right Now
 
-Here’s what I’m focused on right now:
-
-- **JavaScript & Frameworks** – Advancing my skills with ES6+, React, and modern development patterns  
-- **Full-Stack Development** – Building responsive, accessible, and scalable web applications  
-- **Version Control & Collaboration** – Managing codebases with Git and collaborating effectively on GitHub
+- **Modern JavaScript & Frameworks** – Sharpening my skills in ES6+, React, and contemporary frontend development practices  
+- **Full-Stack Web Development** – Building responsive, accessible, and scalable applications using JavaScript, Node.js, and related technologies  
+- **COBOL & Legacy System Modernization** – Studying COBOL and JCL with a focus on integrating and modernizing legacy enterprise systems  
+- **Version Control & Team Collaboration** – Managing clean, maintainable codebases with Git and contributing effectively to collaborative projects on GitHub  
 
 ---
 
