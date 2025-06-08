@@ -1,7 +1,7 @@
 🌟 **Welcome to my GitHub!**  
-I'm a Computer Science student and aspiring Software Engineer with a passion for building things that actually work — not just in theory, but in real-world environments.
+I'm a full stack Javascript Dev with a passion for building things that actually work — not just in theory, but in real-world environments.
 
-Currently focused on full-stack JavaScript development, I'm also exploring legacy technologies like COBOL and JCL to deepen my understanding of the foundational systems that continue to power much of today’s infrastructure.
+Currently focused on full-stack development, I'm also exploring legacy technologies like COBOL and JCL to deepen my understanding of the foundational systems that continue to power much of today’s infrastructure.
 
 I’m enrolled in the TripleTen Software Engineering Program and actively supplementing my education with independent study in:
 
