@@ -1,6 +1,6 @@
 # Hi, I’m Phillip
 
-I’m a **Full-Stack JavaScript Engineer** who enjoys building practical, scalable applications that solve real problems. My focus is on creating software that doesn’t just look good, but works reliably in real-world environments.
+I’m a student studying **Full-Stack JavaScript Engineering** with TripleTen. I enjoy building practical, scalable applications that solve real problems. My focus is on creating software that doesn’t just look good, but works reliably and scales in real-world environments.
 
 Currently, I’m deepening my expertise in **modern full-stack development** while also sharpening my understanding of computer science fundamentals, data structures & algorithms, and scalable design patterns.
 
