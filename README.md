@@ -18,9 +18,6 @@ Currently, I’m deepening my expertise in **modern full-stack development** whi
 **Languages & Frameworks:**  
 JavaScript, HTML5, CSS3, React, Node.js  
 
-**Development & Tools:**  
-Git, GitHub, VS Code, Jest, Mocha  
-
 ---
 
 ## Featured Projects
